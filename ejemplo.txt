@@ -1,0 +1,2 @@
+Este texto ilustra el ejercicio para crear un manual de git de la asignatura 
+de Desarrollo de Interfaces Gráficas de FPDAM.
